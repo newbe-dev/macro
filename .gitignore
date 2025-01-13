@@ -1,0 +1,4 @@
+*.spec
+*.exe
+build/
+dist/
