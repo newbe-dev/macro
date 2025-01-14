@@ -5,5 +5,5 @@
 2. 혹은 그냥 main.exe 다운받고 실행 (pyinstaller로 빌드함)
    https://drive.google.com/file/d/1QRcBv43mcwJFRNKWiXBshgVOgGyTbqbB/view?usp=drive_link
 
-ChatGPT API키 없으면 이거 쓰세요 (free tier임) :
-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
+ChatGPT API키 없으면 이거 쓰세요: https://www.protectedtext.com/gptAPI
+(비밀번호: gpt)
