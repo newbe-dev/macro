@@ -119,6 +119,8 @@ for i in range(8):
     WebDriverWait(driver, 10).until(EC.alert_is_present())
     driver.switch_to.alert.accept()
     time.sleep(3)
+if key != '0':
+    do_examination("Research Ethics")
 
 driver.quit()
 print("윤리및안전 교육을 모두 이수했습니다. 프로그램을 종료해주세요.")
